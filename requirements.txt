@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-openai
+bs4
+langgraph
+python-dotenv
+pymysql
+sqlalchemy
+groq
